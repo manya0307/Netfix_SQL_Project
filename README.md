@@ -1,1 +1,1 @@
-# Netfix_SQL_Project
+# Netfix Data Analysis using SQL
